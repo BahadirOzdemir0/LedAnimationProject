@@ -1,1 +1,1 @@
-"LedAnimationProject" coded more than 5 LED animations on a circuit with 9 LEDs using STM32 and CubeIDE. This project involved designing, coding, and testing intricate light patterns, implementing creative hardware configurations, and troubleshooting real-time visual effects.
+"LedAnimationProject" coded more than 7 LED animations on a circuit with 7 LEDs using STM32 and CubeIDE. This project involved designing, coding, and testing intricate light patterns, implementing creative hardware configurations, and troubleshooting real-time visual effects.
